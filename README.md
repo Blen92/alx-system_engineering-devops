@@ -1,1 +1,3 @@
-0x01-shell_permissions
+# System engineering DevOps
+
+This project automate some commands from the linux terminal
